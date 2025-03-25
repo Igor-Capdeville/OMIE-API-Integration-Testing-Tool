@@ -8,6 +8,8 @@ import config
 # Start the timer
 start_time = time.time()
 
+load_dotenv() 
+
 def update_config_credentials():
     input_key = input("Please enter your app_key: ")
     input_secret = input("Please enter your app_secret: ")

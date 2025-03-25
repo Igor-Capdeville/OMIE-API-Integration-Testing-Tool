@@ -1,3 +1,12 @@
+# Ignore notes
+notes.md
+
+# Ignore the response.json file
+*.json
+
+# Ignore gitignore file
+.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
