@@ -14,6 +14,3 @@ calltype = {
 # app_secret = "your_app_secret"
 app_key = "123"
 app_secret = "159"
-
-app_key = "1583625083040"
-app_secret = "b7c417712936bf192280d5e380f2b459"
