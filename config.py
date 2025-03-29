@@ -19,6 +19,4 @@ from dotenv import load_dotenv
 
 load_dotenv() 
 
-app_key = os.getenv("APP_KEY")
-app_secret = os.getenv("APP_SECRET")
 """
