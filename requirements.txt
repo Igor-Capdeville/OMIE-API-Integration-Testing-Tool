@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Add your project dependencies below
+# Example:
+# flask==2.3.2
+# requests==2.31.0
+# numpy==1.25.2
+
+requests==2.31.0
+python-dotenv==1.0.0
